@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "DKGU784e492c-3c4f-4f6d-b01b-db64cf937de5ID",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "David Aparicio (APAWARE)",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -20,7 +20,7 @@
         {
             "id":  "W1GUID",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "David Aparicio (APAWARE)",
             "version":  "1.0.0.0"
         }
     ],

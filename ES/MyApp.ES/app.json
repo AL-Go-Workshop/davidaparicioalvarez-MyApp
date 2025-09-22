@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "0ea21780-672f-41c2-b6f1-acdeae64f2e1",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "David Aparicio (APAWARE)",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -20,7 +20,7 @@
         {
             "id":  "W1GUID",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "David Aparicio (APAWARE)",
             "version":  "1.0.0.0"
         }
     ],
