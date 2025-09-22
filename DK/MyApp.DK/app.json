@@ -1,44 +1,42 @@
-﻿{
-    "id":  "784e492c-3c4f-4f6d-b01b-db64cf937de5",
-    "name":  "MyApp.DK",
-    "publisher":  "David Aparicio (APAWARE)",
-    "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-        {
-            "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
-            "name":  "Common",
-            "publisher":  "Freddy Kristiansen",
-            "version":  "1.0.0.0"
-        },
-        {
-            "id":  "0cb0cc59-9948-42fa-ac86-b67207816f56",
-            "name":  "MyApp.W1",
-            "publisher":  "David Aparicio (APAWARE)",
-            "version":  "1.0.0.0"
-        }
-    ],
-    "screenshots":  [
-
-                    ],
-    "platform":  "1.0.0.0",
-    "application":  "25.0.0.0",
-    "runtime": "14.0",
-    "idRanges":  [
-                     {
-                         "from":  61000,
-                         "to":  62000
-                     }
-                 ],
-    "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
-                               }
+{
+  "id": "784e492c-3c4f-4f6d-b01b-db64cf937de5",
+  "name": "MyApp.DK",
+  "publisher": "David Aparicio (APAWARE)",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+      "name": "Common",
+      "publisher": "Freddy Kristiansen",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "0cb0cc59-9948-42fa-ac86-b67207816f56",
+      "name": "MyApp.W1",
+      "publisher": "David Aparicio (APAWARE)",
+      "version": "2.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "runtime": "14.0",
+  "idRanges": [
+    {
+      "from": 61000,
+      "to": 62000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
 }
